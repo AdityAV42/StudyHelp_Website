@@ -1,6 +1,6 @@
 A feature-rich Website built using modern web development technologies including HTML, CSS, and version control with Git and GitHub.
 
-![image](https://github.com/user-attachments/assets/086766a9-e412-4b14-b120-ff9527becb87)
+![image](https://github.com/user-attachments/assets/b8e362c2-04b7-4a7f-9314-2ec981155316)
 
 ![image](https://github.com/user-attachments/assets/a22b43bd-fff5-48d3-8f2d-786025112844)
 
